@@ -28,6 +28,7 @@
 
 #include<System.h>
 
+#include <unistd.h>
 using namespace std;
 
 void LoadImages(const string &strImagePath, const string &strPathTimes,
